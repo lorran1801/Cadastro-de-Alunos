@@ -1,0 +1,20 @@
+C:\Users\Thiago\source\repos\Cadastro de Alunos\bin\Debug\Cadastro de Alunos.exe.config
+C:\Users\Thiago\source\repos\Cadastro de Alunos\bin\Debug\Cadastro de Alunos.exe
+C:\Users\Thiago\source\repos\Cadastro de Alunos\bin\Debug\Cadastro de Alunos.pdb
+C:\Users\Thiago\source\repos\Cadastro de Alunos\obj\Debug\Cadastro de Alunos.csprojAssemblyReference.cache
+C:\Users\Thiago\source\repos\Cadastro de Alunos\obj\Debug\Cadastro_de_Alunos.Form1.resources
+C:\Users\Thiago\source\repos\Cadastro de Alunos\obj\Debug\Cadastro_de_Alunos.Properties.Resources.resources
+C:\Users\Thiago\source\repos\Cadastro de Alunos\obj\Debug\Cadastro de Alunos.csproj.GenerateResource.cache
+C:\Users\Thiago\source\repos\Cadastro de Alunos\obj\Debug\Cadastro de Alunos.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\Cadastro de Alunos\obj\Debug\Cadastro de Alunos.exe
+C:\Users\Thiago\source\repos\Cadastro de Alunos\obj\Debug\Cadastro de Alunos.pdb
+C:\Users\Lorran\source\repos\Cadastro de Alunos\bin\Debug\Cadastro de Alunos.exe.config
+C:\Users\Lorran\source\repos\Cadastro de Alunos\bin\Debug\Cadastro de Alunos.exe
+C:\Users\Lorran\source\repos\Cadastro de Alunos\bin\Debug\Cadastro de Alunos.pdb
+C:\Users\Lorran\source\repos\Cadastro de Alunos\obj\Debug\Cadastro de Alunos.csprojAssemblyReference.cache
+C:\Users\Lorran\source\repos\Cadastro de Alunos\obj\Debug\Cadastro_de_Alunos.Form1.resources
+C:\Users\Lorran\source\repos\Cadastro de Alunos\obj\Debug\Cadastro_de_Alunos.Properties.Resources.resources
+C:\Users\Lorran\source\repos\Cadastro de Alunos\obj\Debug\Cadastro de Alunos.csproj.GenerateResource.cache
+C:\Users\Lorran\source\repos\Cadastro de Alunos\obj\Debug\Cadastro de Alunos.csproj.CoreCompileInputs.cache
+C:\Users\Lorran\source\repos\Cadastro de Alunos\obj\Debug\Cadastro de Alunos.exe
+C:\Users\Lorran\source\repos\Cadastro de Alunos\obj\Debug\Cadastro de Alunos.pdb
